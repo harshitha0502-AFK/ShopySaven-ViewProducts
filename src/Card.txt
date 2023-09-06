@@ -1,0 +1,17 @@
+
+ {/* {products[0].images.map((image, index) => (
+                  <img key={products[0].id} src={products[0].images} alt={` ${index + 1}`}/>
+                  ))}  */}
+ /* {products.map(product => (
+          <> */
+
+/* <h1>Product List</h1>
+      <p>Total Products: {total}</p>
+      <p>Skip: {skip}</p>
+      <p>Limit: {limit}</p> */
+
+
+/* <div>
+<h1>{product}</h1>
+        <button onClick={fetchProduct}>Get Info</button>
+       */

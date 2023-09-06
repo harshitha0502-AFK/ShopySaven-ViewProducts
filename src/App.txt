@@ -1,0 +1,5 @@
+
+
+ // console.log("product name :",products.title);
+  // console.log("product description :",products.description);
+  // console.log("product brand :",products.brand);
