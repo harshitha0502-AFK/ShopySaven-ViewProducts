@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ShopySaven-ViewProducts/static/css/main.49b7ef7b.css",
+    "main.js": "/ShopySaven-ViewProducts/static/js/main.c040d1ff.js",
+    "index.html": "/ShopySaven-ViewProducts/index.html",
+    "main.49b7ef7b.css.map": "/ShopySaven-ViewProducts/static/css/main.49b7ef7b.css.map",
+    "main.c040d1ff.js.map": "/ShopySaven-ViewProducts/static/js/main.c040d1ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49b7ef7b.css",
+    "static/js/main.c040d1ff.js"
+  ]
+}
